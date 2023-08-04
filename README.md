@@ -26,6 +26,10 @@ This Go script is designed to find potential API calls made in JavaScript files 
 
 3. Run the script using the Go compiler, and the API calls in the JavaScript files will be displayed in the console.
 
+4. usage: <code>go run main.go https://exmaple.com/auth/</code>
+   
+
+
 ## Disclaimer
 
 Please note that this is a simplified version of a more complex task. The provided script may not handle all scenarios, such as minified or obfuscated JavaScript code. It's important to perform automated scanning or analysis responsibly, with proper authorization from website owners and adherence to ethical standards.
